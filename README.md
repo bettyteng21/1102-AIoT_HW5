@@ -23,3 +23,6 @@ echo "# 0517" >> README.md
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 4. run [老師寫的colab框架](https://github.com/huanchen1107/AIoT_2022)，即可用colab跑
+
+# 作業五
+**作業五的step by step，請看pdf**
