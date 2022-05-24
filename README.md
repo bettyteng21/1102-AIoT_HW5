@@ -25,4 +25,8 @@ echo "# 0517" >> README.md
 4. run [老師寫的colab框架](https://github.com/huanchen1107/AIoT_2022)，即可用colab跑
 
 # 作業五
-**作業五的step by step，請看pdf**
+**作業五的step by step的pdf，可以看pdf**
+1. 開啟 xampp，啟動 sql 和 apache
+
+2. 照老師之前的教案，新增兩個使用者(密碼皆為: test123)
+3. 匯入老師給的 sensors 
