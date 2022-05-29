@@ -1,6 +1,5 @@
-# 1102-AIoT_HW5
+# 1102-AIoT_HW5 作業5
 
-# 作業五
 **作業五的step by step的pdf，可以看pdf**
 1. 開啟 xampp，啟動 sql 和 apache
 2. 照老師之前的教案，新增兩個使用者(密碼皆為: test123)
