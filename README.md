@@ -10,6 +10,6 @@
 7. 繪製 highchart 的部分就和老師之前提供的檔案一樣，沒有改
 8. 最後得出有三條線 temps、lights、humids 的 highchart
 
-**老師突然在某堂課給了解答，所以這版算是半廢棄了😕**
+**老師突然在某堂課給了解答，所以這版算是半廢棄了😕**\
 老師要的版本: https://github.com/bettyteng21/aiot_hw5
 
